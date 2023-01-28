@@ -57,11 +57,24 @@ sh Ventoy2Disk.sh { -i | -I | -u } /dev/sdX
 
 
 ## 🙇 Auteur
-#### thibault DEVEMY
+#### Shaggy_404 (DEVEMY Thibault)
 - Github: [Shaggy404](https://github.com/Shaggy404)    
         
         
+## ©️ Licence
 
+Bien que ce ne soit pas un logiciel, ce guide est placé sous licence BEERWARE
+```
+/*
+ * ----------------------------------------------------------------------------
+ * "LICENCE BEERWARE" (Révision 42):
+ * <shaggy_404@protonmail.ch> a créé ce fichier. Tant que vous conservez cet avertissement,
+ * vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et
+ * que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en
+ * retour. Shaggy_404
+ * ----------------------------------------------------------------------------
+ */
+ ```
 
         
         
