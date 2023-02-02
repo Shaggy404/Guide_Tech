@@ -57,7 +57,7 @@ sh Ventoy2Disk.sh { -i | -I | -u } /dev/sdX
 
 
 ## 🙇 Auteur
-#### Shaggy_404 (DEVEMY Thibault)
+#### Shaggy_404
 - Github: [Shaggy404](https://github.com/Shaggy404)    
         
         
