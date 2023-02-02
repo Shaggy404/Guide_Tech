@@ -5,7 +5,7 @@ Divers guides crées pour de petits projets (en FR)
 - [VHD Windows 10 depuis Linux](https://github.com/Shaggy404/Guide_Tech/blob/main/VHD%20Windows%2010%20depuis%20Linux.md)
 
 ## 🙇 Auteur des guides
-#### Shaggy_404 (DEVEMY Thibault)
+#### Shaggy_404
 - Github: [Shaggy404](https://github.com/Shaggy404)    
         
 
